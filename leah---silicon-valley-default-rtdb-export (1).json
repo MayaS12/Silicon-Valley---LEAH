@@ -1,0 +1,17 @@
+{
+  "creatorCount" : 1,
+  "creators" : {
+    "creator1" : {
+      "age" : "21",
+      "artist" : "Solo instrument player",
+      "email" : "farah@gmail.com",
+      "fee" : "50,000-1,00,000",
+      "genre" : "Classical",
+      "instrument" : "Piano",
+      "name" : "Farah",
+      "phone" : "+91 9619360003",
+      "state" : "Gujarat",
+      "videoLink" : "https://www.youtube.com/"
+    }
+  }
+}
